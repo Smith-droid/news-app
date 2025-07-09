@@ -1,0 +1,84 @@
+{
+  "status": "ok",
+  "totalResults": 6,
+  "articles": [
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "",
+      "title": "Republican lawmaker says Russian propaganda has ‘infected a good chunk’ of GOP base | CNN Politics",
+      "description": "House Foreign Affairs Chairman Rep. Michael McCaul (R-TX) made comments during an interview with Puck, warning that Russian propaganda has “infected” a portion of the GOP base. House Intelligence Chairman Rep. Mike Turner (R-OH) joins CNN’s Jake Tapper to dis…",
+      "url": "https://www.cnn.com/videos/politics/2024/04/07/michael-mccaul-russian-propaganda-infected-gop-base-mike-turner-sotu-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240407101856-mccaul-turner-split-vpx.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-07T17:19:24Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "",
+      "title": "Republican strategist says Trump has made a critical mistake in the campaign | CNN Politics",
+      "description": "Republican strategist Karl Rove, who was the architect of George W. Bush’s successful presidential run, says that Donald Trump has made a mistake calling imprisoned January 6th rioters hostages and said President Joe Biden should “go hard” at Trump on the iss…",
+      "url": "https://www.cnn.com/videos/politics/2024/04/06/karl-rove-biden-attack-trump-january-6-rhetoric-nr-sot-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240406193545-donald-trump-karl-rove-split-for-video.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-07T00:13:52Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "",
+      "title": "Hear Trump explain away Melania’s absence from the campaign trail | CNN Politics",
+      "description": "CNN’s Randi Kaye reports on former first lady Melania Trump’s whereabouts while her husband has been on the campaign trail.",
+      "url": "https://www.cnn.com/videos/politics/2024/04/06/melania-trump-absence-campaign-kaye-ac360-pkg-vpx.cnn",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230713172349-donald-melania-trump-file-november-2022.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2024-04-06T02:00:17Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-american-conservative",
+        "name": "The American Conservative"
+      },
+      "author": null,
+      "title": "Politics Archives - The American Conservative",
+      "description": null,
+      "url": "https://www.theamericanconservative.com/category/politics/",
+      "urlToImage": null,
+      "publishedAt": "2022-07-07T21:37:27.3936289Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": "Reuters Graphics",
+      "title": "Reuters Graphics - Charts, Maps, Interactive Graphics and Videos",
+      "description": "The latest world news - politics, sports, culture, science and environment - from our graphics journalists in Singapore, Bangalore, London and New York.",
+      "url": "https://www.reuters.com/graphics/",
+      "urlToImage": "https://www.reuters.com/graphics/cdn/img/home.jpg",
+      "publishedAt": "2020-12-21T00:00:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-jerusalem-post",
+        "name": "The Jerusalem Post"
+      },
+      "author": null,
+      "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+      "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+      "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+      "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+      "publishedAt": "2019-11-13T04:41:00Z",
+      "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+    }
+  ]
+}
