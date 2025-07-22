@@ -8,7 +8,7 @@ import LoadingBar from 'react-top-loading-bar'
 
 const App = ()=> {
   const pageSize = 6;
-  const apiKey = "932e3f9893574a028cee48f25b7601b0";
+  const apiKey = "8b3a6bdaa0cbb7798aae280e16f33084"; // Used GNews API 
   const [progress, setProgress] = useState(0)
  
     return (
